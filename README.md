@@ -5,6 +5,7 @@
 * ECDC_Covid_Data_and_Graphs.ipynb- Pulls covid data from ecdc and graphs it . 
 * Lots of graphs and web pulls.ipynb - Different shape multi-plots and customising pie charts
 * PremierLeagueFixturesfromAPItoExcel.ipynb - Pulls the premier league fixtures from the API and outputs to a dataframe and excel
+* Soduku.ipynb - solution to soduku using backtracking, linear programming and dancing links
 
 Useful links <br>
 * Matplot colours https://matplotlib.org/3.1.0/_images/sphx_glr_named_colors_003.png
