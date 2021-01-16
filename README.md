@@ -1,4 +1,3 @@
-# Public-Practice-Code <br>
 **Code I want to remember and reuse**
 
 * BOE_real_rates.ipynb - pulls BOE rate curves from their website
